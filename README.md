@@ -49,8 +49,7 @@ Explore my portfolio to discover more about my work.
 
 ## 🌐 Live Website
 
-🔗 [View My Portfolio](ADD_YOUR_DEPLOYED_PORTFOLIO_LINK)
-
+🔗 [View My Portfolio](https://isha-portfolio-two-eta.vercel.app/connect)
 ## 📄 Resume
 
 You can explore my professional journey and technical skills through my resume.
@@ -59,8 +58,8 @@ You can explore my professional journey and technical skills through my resume.
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn](ADD_LINKEDIN_LINK)
-- **GitHub:** [My GitHub](ADD_GITHUB_LINK)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/isha-jawalkar-50184a397/)
+- **GitHub:** [My GitHub](https://github.com/jawalkarisha-commits)
 - **YouTube:** [Introduction Video](ADD_YOUTUBE_LINK)
 
 ---
