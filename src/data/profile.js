@@ -30,14 +30,14 @@ export const links = {
   hackerrank: 'https://www.hackerrank.com/profile/jawalkarisha',
   codechef: 'https://www.codechef.com/users/flock_beam_43',
   // YouTube: when your self-introduction video is ready, replace null with its URL.
-  youtube: null,
+  youtube: 'https://youtu.be/Dty3lv0HOKY',
 }
 
 export const resume = {
   // 1) Put your PDF in /public/resume/ named exactly as below
   // 2) Change `available` to true
   file: '/resume/Isha-Jawalkar-Resume.pdf',
-  available: false,
+  available: true,
 }
 
 export const nav = [
