@@ -1,22 +1,35 @@
 # Isha Jawalkar – The Data Engineering Lab (Portfolio)
 
-A React + Vite portfolio website. Everything you will want to edit lives in `src/data/`.
+A React + Vite portfolio website. E
 
-## 1. Run it on your computer
+# ✨ Personal Portfolio Website
 
-1. Install Node.js (LTS version) from https://nodejs.org
-2. Open a terminal inside this folder (`isha-portfolio`) and run:
+Welcome to my personal portfolio! This website represents my journey as a developer, showcasing my skills, projects, achievements, and passion for technology.
 
-```bash
-npm install
-npm run dev
-```
+## 👩‍💻 About Me
 
-3. Open the address it prints (usually http://localhost:5173).
+Hi, I'm **Isha**, a passionate technology enthusiast and aspiring software developer who enjoys learning new technologies, solving problems, and building creative solutions.
 
-To test the production version: `npm run build` then `npm run preview`.
+I believe in continuous learning and turning ideas into meaningful projects.
 
-## 2. Edit your content (no coding needed)
+## 🚀 Features
+
+- Modern and responsive user interface
+- About Me section
+- Technical skills and technologies
+- Projects and development work
+- Certifications and achievements
+- Contact and social media links
+- Resume access
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- [Add your framework and other technologies here]
+
+## Edit your content (no coding needed)
 
 | What | File |
 |---|---|
@@ -25,44 +38,34 @@ To test the production version: `npm run build` then `npm run preview`.
 | Skills, learning roadmap, pipeline text | `src/data/learning.js` |
 | Blog posts (text, dates, cover images) | `src/data/blogs.js` |
 
-**Add your photo:** put it in `public/images/isha.jpg`, then in `profile.js` set `photo: '/images/isha.jpg'`.
+## 💡 Featured Projects
 
-**Add your resume:** save the PDF as `public/resume/Isha-Jawalkar-Resume.pdf`, then in `profile.js` set `available: true`. The Connect page turns into a download button.
+Some of my development work includes:
 
-**Certificates, hackathons and achievements:** open `src/data/profile.js` and find `certCategories`. Put the image in `public/certificates/`, then add an item to the right category (Certifications, Learning badges, Internships, Hackathons, Achievements). Job simulations now live under Certifications with `title`, `issuer`, `image: '/certificates/yourfile.png'` and `alt`. Clicking the card on the site opens the full image.
+- **DrainMind** – A project focused on developing technology-driven solutions.
+- **Sehat-Sathi** – A hackathon project focused on healthcare-related solutions.
 
-**Add project screenshots:** put images in `public/images/projects/` and list them in `projects.js`, e.g. `screenshots: [{ src: '/images/projects/map.png', alt: 'DrainMind map view' }]`.
+Explore my portfolio to discover more about my work.
 
-**Blog cover images:** put them in `public/images/blog/` and set `cover: '/images/blog/file.jpg'`. **Blog dates:** the dates are draft dates, so change them to your real publication dates.
+## 🌐 Live Website
 
-**YouTube video:** in `profile.js`, set `youtube: 'https://youtube.com/...'`.
+🔗 [View My Portfolio](ADD_YOUR_DEPLOYED_PORTFOLIO_LINK)
 
-## 3. Publish with GitHub + Vercel
+## 📄 Resume
 
-This creates a NEW repository, so it does not overwrite DrainMind or anything else.
+You can explore my professional journey and technical skills through my resume.
 
-1. On github.com click **New repository**. Name it e.g. `isha-portfolio`. Leave it empty.
-2. In the terminal, inside this folder:
+🔗 [View Resume](ADD_YOUR_RESUME_LINK)
 
-```bash
-git init
-git add .
-git commit -m "Initial portfolio"
-git branch -M main
-git remote add origin https://github.com/jawalkarisha-commits/isha-portfolio.git
-git push -u origin main
-```
+## 🤝 Connect With Me
 
-3. Go to https://vercel.com, sign in with GitHub, click **Add New → Project**, choose `isha-portfolio`, and press **Deploy**. Vercel detects Vite automatically (`vercel.json` already handles page refreshes on sub-pages).
-4. Every later `git push` updates the live site.
+- **LinkedIn:** [My LinkedIn](ADD_LINKEDIN_LINK)
+- **GitHub:** [My GitHub](ADD_GITHUB_LINK)
+- **YouTube:** [Introduction Video](ADD_YOUTUBE_LINK)
 
-## 4. Structure
+---
 
-```
-src/
-  data/        all content
-  components/  Layout, Pipeline, ProjectCase, etc.
-  pages/       Home, About, Projects, LearningLab, Blogs, BlogPost, Connect
-  styles/      global.css (colours are variables at the top)
-public/        images, certificates, resume
-```
+⭐ Thank you for visiting my portfolio!
+
+*Always learning, always building, always growing.*
+
